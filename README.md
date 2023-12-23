@@ -2,7 +2,7 @@
 
 I'm a versatile full-stack developer with expertise in mobile, web, and desktop development. My primary focus is on crafting robust and scalable web applications. I enjoy the challenge of solving complex problems and constantly expanding my skill set.
 
-## 🔧 Technologies & Tools### **Backend:**
+## 🔧 Technologies & Tools
 ### **Backend:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Bun.sh](https://img.shields.io/badge/Bun.sh-F05032?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
