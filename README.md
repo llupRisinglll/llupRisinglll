@@ -1,6 +1,9 @@
-# Hi there! 👋 I'm Engr. Luis Edward Miranda
+Luis has a background in both software and hardware development, but he chose to specialize in software engineering with a focus on product development and technical leadership.
 
-I'm a versatile full-stack developer with expertise in mobile, web, and desktop development. My primary focus is on crafting robust and scalable web applications. I enjoy the challenge of solving complex problems and constantly expanding my skill set.
+In his most recent role, Luis served as a Senior Developer for an award-winning online job portal that connects non-executive job seekers to reliable employers in Singapore, Malaysia, and the Philippines.  [More info...](https://www.fastco.asia)
+
+Luis' dream role is not only to develop products but also to understand the business and client needs, delivering solutions that add value. He believes that startups should have a clear purpose and vision, and that profit is a result of providing quality service.
+
 
 ## 🔧 Technologies & Tools
 ### **Backend:**
