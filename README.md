@@ -4,6 +4,7 @@ In his most recent role, Luis served as a Senior Developer for an award-winning 
 
 Luis' dream role is not only to develop products but also to understand the business and client needs, delivering solutions that add value. He believes that startups should have a clear purpose and vision, and that profit is a result of providing quality service.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=llupRisinglll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies & Tools
 ### **Backend:**
