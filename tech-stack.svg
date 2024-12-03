@@ -1,12 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
-  <!-- Background -->
-  <rect width="1000" height="600" fill="#ffffff"/>
-  
-  <!-- Title -->
-  <text x="500" y="40" font-family="Arial" font-size="24" fill="#333" text-anchor="middle" font-weight="bold">Technologies and Tools</text>
-  
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460">
   <!-- Categories -->
-  <g transform="translate(50, 80)">
+  <g transform="translate(25, 20)">
     <!-- Languages and Backend -->
     <rect x="0" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
     <text x="100" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Languages and Backend</text>
