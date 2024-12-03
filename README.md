@@ -7,7 +7,7 @@ Luis' dream role is not only to develop products but also to understand the busi
 [![trophy](https://github-profile-trophy.vercel.app/?username=llupRisinglll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My Tech Stack
-<img src="tech-stack.svg" alt="My Tech Stack" width="800" height="400">
+<img src="tech-stack.svg?sanitize=true" alt="My Tech Stack" width="800" height="400">
 
 ## 🚀 What I'm Up To
 - Currently working with [Apptega](https://www.apptega.com/)
