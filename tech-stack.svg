@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial" font-size="24" fill="#333" text-anchor="middle" font-weight="bold">Technologies and Tools</text>
+  
   <!-- Categories -->
   <g transform="translate(50, 80)">
-    <!-- Languages & Backend -->
+    <!-- Languages and Backend -->
     <rect x="0" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="100" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Languages & Backend</text>
+    <text x="100" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Languages and Backend</text>
     
     <!-- Backend Technologies -->
     <text x="100" y="60" font-family="Arial" font-size="14" fill="#777BB4" text-anchor="middle">PHP</text>
@@ -41,7 +47,7 @@
     
     <!-- Databases -->
     <rect x="440" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="540" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Databases & Tools</text>
+    <text x="540" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Databases and Tools</text>
     
     <!-- Database Systems -->
     <text x="540" y="60" font-family="Arial" font-size="14" fill="#4479A1" text-anchor="middle">MySQL</text>
@@ -55,9 +61,9 @@
     <text x="540" y="250" font-family="Arial" font-size="14" fill="#6C83AB" text-anchor="middle">DBeaver</text>
     <text x="540" y="280" font-family="Arial" font-size="14" fill="#4DB33D" text-anchor="middle">MongoDB Atlas</text>
     
-    <!-- Tools & Cloud -->
+    <!-- Tools and Cloud -->
     <rect x="660" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="760" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Tools & Cloud</text>
+    <text x="760" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Tools and Cloud</text>
     
     <!-- Build Tools -->
     <text x="760" y="60" font-family="Arial" font-size="14" fill="#8DD6F9" text-anchor="middle">Webpack</text>
@@ -65,8 +71,8 @@
     <text x="760" y="120" font-family="Arial" font-size="14" fill="#2C8EBB" text-anchor="middle">Yarn</text>
     <text x="760" y="150" font-family="Arial" font-size="14" fill="#885630" text-anchor="middle">Composer</text>
     
-    <!-- Cloud & Analytics -->
-    <text x="760" y="190" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Cloud & Analytics</text>
+    <!-- Cloud and Analytics -->
+    <text x="760" y="190" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Cloud and Analytics</text>
     <text x="760" y="220" font-family="Arial" font-size="14" fill="#4285F4" text-anchor="middle">Google Cloud Platform</text>
     <text x="760" y="250" font-family="Arial" font-size="14" fill="#FFCA28" text-anchor="middle">Firebase</text>
     <text x="760" y="280" font-family="Arial" font-size="14" fill="#632CA6" text-anchor="middle">Datadog</text>
