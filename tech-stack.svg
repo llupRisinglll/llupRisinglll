@@ -1,25 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460">
   <!-- Categories -->
   <g transform="translate(25, 20)">
-    <!-- Languages and Backend -->
+    <!-- Programming Languages -->
     <rect x="0" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="100" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Languages and Backend</text>
+    <text x="100" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Languages</text>
     
-    <!-- Backend Technologies -->
+    <!-- Core Languages -->
     <text x="100" y="60" font-family="Arial" font-size="14" fill="#777BB4" text-anchor="middle">PHP</text>
     <text x="100" y="90" font-family="Arial" font-size="14" fill="#43853D" text-anchor="middle">Node.js</text>
     <text x="100" y="120" font-family="Arial" font-size="14" fill="#239120" text-anchor="middle">C#</text>
-    <text x="100" y="150" font-family="Arial" font-size="14" fill="#F05032" text-anchor="middle">Bun.sh</text>
-    
-    <!-- Frameworks -->
-    <text x="100" y="190" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Frameworks</text>
-    <text x="100" y="220" font-family="Arial" font-size="14" fill="#FF2D20" text-anchor="middle">Laravel</text>
-    <text x="100" y="250" font-family="Arial" font-size="14" fill="#000000" text-anchor="middle">Express.js</text>
-    <text x="100" y="280" font-family="Arial" font-size="14" fill="#05122A" text-anchor="middle">ElysiaJS</text>
-    
-    <!-- Other Languages -->
-    <text x="100" y="320" font-family="Arial" font-size="14" fill="#3776AB" text-anchor="middle">Python</text>
-    <text x="100" y="350" font-family="Arial" font-size="14" fill="#007396" text-anchor="middle">Java</text>
+    <text x="100" y="150" font-family="Arial" font-size="14" fill="#3776AB" text-anchor="middle">Python</text>
+    <text x="100" y="180" font-family="Arial" font-size="14" fill="#007396" text-anchor="middle">Java</text>
+    <text x="100" y="210" font-family="Arial" font-size="14" fill="#F7DF1E" text-anchor="middle">JavaScript</text>
+    <text x="100" y="240" font-family="Arial" font-size="14" fill="#3178C6" text-anchor="middle">TypeScript</text>
     
     <!-- Frontend Technologies -->
     <rect x="220" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
@@ -28,53 +21,46 @@
     <!-- Core Frontend -->
     <text x="320" y="60" font-family="Arial" font-size="14" fill="#E34F26" text-anchor="middle">HTML</text>
     <text x="320" y="90" font-family="Arial" font-size="14" fill="#1572B6" text-anchor="middle">CSS</text>
-    <text x="320" y="120" font-family="Arial" font-size="14" fill="#F7DF1E" text-anchor="middle">JavaScript</text>
-    <text x="320" y="150" font-family="Arial" font-size="14" fill="#3178C6" text-anchor="middle">TypeScript</text>
-    <text x="320" y="180" font-family="Arial" font-size="14" fill="#CC6699" text-anchor="middle">SCSS</text>
+    <text x="320" y="120" font-family="Arial" font-size="14" fill="#CC6699" text-anchor="middle">SCSS</text>
     
     <!-- Frontend Frameworks -->
-    <text x="320" y="220" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Frameworks</text>
-    <text x="320" y="250" font-family="Arial" font-size="14" fill="#61DAFB" text-anchor="middle">React</text>
-    <text x="320" y="280" font-family="Arial" font-size="14" fill="#DD0031" text-anchor="middle">Angular</text>
-    <text x="320" y="310" font-family="Arial" font-size="14" fill="#563D7C" text-anchor="middle">Bootstrap</text>
-    <text x="320" y="340" font-family="Arial" font-size="14" fill="#0769AD" text-anchor="middle">jQuery</text>
+    <text x="320" y="160" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Frameworks</text>
+    <text x="320" y="190" font-family="Arial" font-size="14" fill="#61DAFB" text-anchor="middle">React</text>
+    <text x="320" y="220" font-family="Arial" font-size="14" fill="#DD0031" text-anchor="middle">Angular</text>
+    <text x="320" y="250" font-family="Arial" font-size="14" fill="#563D7C" text-anchor="middle">Bootstrap</text>
+    <text x="320" y="280" font-family="Arial" font-size="14" fill="#0769AD" text-anchor="middle">jQuery</text>
+    
+    <!-- Backend Frameworks -->
+    <rect x="440" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
+    <text x="540" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Backend Frameworks</text>
+    
+    <!-- Frameworks -->
+    <text x="540" y="60" font-family="Arial" font-size="14" fill="#FF2D20" text-anchor="middle">Laravel</text>
+    <text x="540" y="90" font-family="Arial" font-size="14" fill="#000000" text-anchor="middle">Express.js</text>
+    <text x="540" y="120" font-family="Arial" font-size="14" fill="#05122A" text-anchor="middle">ElysiaJS</text>
+    <text x="540" y="150" font-family="Arial" font-size="14" fill="#F05032" text-anchor="middle">Bun.sh</text>
+    
+    <!-- Tools and Services -->
+    <rect x="660" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
+    <text x="760" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Tools and Services</text>
     
     <!-- Databases -->
-    <rect x="440" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="540" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Databases and Tools</text>
-    
-    <!-- Database Systems -->
-    <text x="540" y="60" font-family="Arial" font-size="14" fill="#4479A1" text-anchor="middle">MySQL</text>
-    <text x="540" y="90" font-family="Arial" font-size="14" fill="#47A248" text-anchor="middle">MongoDB</text>
-    <text x="540" y="120" font-family="Arial" font-size="14" fill="#003B57" text-anchor="middle">SQLite</text>
-    <text x="540" y="150" font-family="Arial" font-size="14" fill="#F80000" text-anchor="middle">Oracle</text>
-    
-    <!-- Database Tools -->
-    <text x="540" y="190" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Database Tools</text>
-    <text x="540" y="220" font-family="Arial" font-size="14" fill="#4479A1" text-anchor="middle">MySQL Workbench</text>
-    <text x="540" y="250" font-family="Arial" font-size="14" fill="#6C83AB" text-anchor="middle">DBeaver</text>
-    <text x="540" y="280" font-family="Arial" font-size="14" fill="#4DB33D" text-anchor="middle">MongoDB Atlas</text>
-    
-    <!-- Tools and Cloud -->
-    <rect x="660" y="0" width="200" height="460" fill="#f8f9fa" rx="5" stroke="#e9ecef" stroke-width="1"/>
-    <text x="760" y="30" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">Tools and Cloud</text>
+    <text x="760" y="60" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Databases</text>
+    <text x="760" y="90" font-family="Arial" font-size="14" fill="#4479A1" text-anchor="middle">MySQL</text>
+    <text x="760" y="120" font-family="Arial" font-size="14" fill="#47A248" text-anchor="middle">MongoDB</text>
+    <text x="760" y="150" font-family="Arial" font-size="14" fill="#003B57" text-anchor="middle">SQLite</text>
+    <text x="760" y="180" font-family="Arial" font-size="14" fill="#F80000" text-anchor="middle">Oracle</text>
+    <text x="760" y="210" font-family="Arial" font-size="14" fill="#336791" text-anchor="middle">PostgreSQL</text>
+    <text x="760" y="240" font-family="Arial" font-size="14" fill="#3ECF8E" text-anchor="middle">Supabase</text>
     
     <!-- Build Tools -->
-    <text x="760" y="60" font-family="Arial" font-size="14" fill="#8DD6F9" text-anchor="middle">Webpack</text>
-    <text x="760" y="90" font-family="Arial" font-size="14" fill="#CB3837" text-anchor="middle">npm</text>
-    <text x="760" y="120" font-family="Arial" font-size="14" fill="#2C8EBB" text-anchor="middle">Yarn</text>
-    <text x="760" y="150" font-family="Arial" font-size="14" fill="#885630" text-anchor="middle">Composer</text>
+    <text x="760" y="280" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Build Tools</text>
+    <text x="760" y="310" font-family="Arial" font-size="14" fill="#8DD6F9" text-anchor="middle">Webpack</text>
+    <text x="760" y="340" font-family="Arial" font-size="14" fill="#CB3837" text-anchor="middle">npm</text>
+    <text x="760" y="370" font-family="Arial" font-size="14" fill="#2C8EBB" text-anchor="middle">Yarn</text>
+    <text x="760" y="400" font-family="Arial" font-size="14" fill="#885630" text-anchor="middle">Composer</text>
     
     <!-- Cloud and Analytics -->
-    <text x="760" y="190" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Cloud and Analytics</text>
-    <text x="760" y="220" font-family="Arial" font-size="14" fill="#4285F4" text-anchor="middle">Google Cloud Platform</text>
-    <text x="760" y="250" font-family="Arial" font-size="14" fill="#FFCA28" text-anchor="middle">Firebase</text>
-    <text x="760" y="280" font-family="Arial" font-size="14" fill="#632CA6" text-anchor="middle">Datadog</text>
-    <text x="760" y="310" font-family="Arial" font-size="14" fill="#E37400" text-anchor="middle">Google Analytics</text>
-    
-    <!-- Other Tools -->
-    <text x="760" y="350" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Other Tools</text>
-    <text x="760" y="380" font-family="Arial" font-size="14" fill="#00599C" text-anchor="middle">Curl</text>
-    <text x="760" y="410" font-family="Arial" font-size="14" fill="#4A154B" text-anchor="middle">SSH</text>
+    <text x="760" y="440" font-family="Arial" font-size="14" fill="#4285F4" text-anchor="middle">GCP</text>
   </g>
 </svg>
