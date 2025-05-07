@@ -1,22 +1,27 @@
-Luis has a background in both software and hardware development, but he chose to specialize in software engineering with a focus on product development and technical leadership.
 
-In his most recent role, Luis served as a Senior Developer for an award-winning online job portal that connects non-executive job seekers to reliable employers in Singapore, Malaysia, and the Philippines.  [More info...](https://www.fastco.asia)
-
-Luis' dream role is not only to develop products but also to understand the business and client needs, delivering solutions that add value. He believes that startups should have a clear purpose and vision, and that profit is a result of providing quality service.
+Senior Software Engineer with a language-agnostic approach, adapting across various programming languages and technology stacks based on project requirements. Combines technical expertise with business acumen through MBA studies. Passionate about building solutions that bridge technology and business needs.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=llupRisinglll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# My Tech Stack
-<img src="./tech-stack.svg?sanitize=true" alt="My Tech Stack" width="800" height="400">
-
 ## 🚀 What I'm Up To
-- Currently working with [Apptega](https://www.apptega.com/)
-- Exploring AI technologies and integrating machine learning techniques into my projects
+- Working as a senior software engineer at Arch Global Services Philippines, focusing on Thimble (an insurance platform subsidiary of Arch Capital Group). Also pursuing MBA studies and running my own business in Naga City, Camarines Sur, Philippines. For more professional details, check my [LinkedIn](https://www.linkedin.com/in/lluprisingll)
+- Exploring AI technologies and integrating machine learning techniques
 - Embracing the world of IoT as a hobby
+- Occasionally writing articles on [Medium](https://medium.com/@llupRisingll)
 
+## Technical Interests
+As a language-agnostic engineer, I work across various technologies based on project requirements. Some areas I've explored include:
+- Backend & Frontend Development (PHP, Node.js, C#, Python, Java, JavaScript, TypeScript, HTML, CSS, SCSS, React, Angular, Bootstrap, jQuery)
+- Database Systems & Data Management (MySQL, MongoDB, SQLite, Oracle, PostgreSQL, Supabase)
+- Machine Learning & AI Implementation
+- WebSocket & Real-time Communication
+- DevOps & Cloud Infrastructure (Docker, GCP)
 
-## 🌐 Connect with Me
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lluprisingll) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@llupRisingll) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lluprisingll/)
 
-## 📫 Let's Collaborate
-I'm always open to collaboration and new opportunities. Feel free to reach out, and let's create something amazing together!
+**Additional GitHub Profiles:** 
+- [LuisPogi](https://github.com/LuisPogi) - Used during employment with FastJobs
+- [arch-luismiranda](https://github.com/arch-luismiranda) - Used during employment with Arch
+
+I'm open to collaboration and new opportunities - let's create something amazing together!
