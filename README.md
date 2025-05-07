@@ -11,11 +11,11 @@ Senior Software Engineer with a language-agnostic approach, adapting across vari
 
 ## Technical Interests
 As a language-agnostic engineer, I work across various technologies based on project requirements. Some areas I've explored include:
-- Backend & Frontend Development (PHP, Node.js, C#, Python, Java, JavaScript, TypeScript, HTML, CSS, SCSS, React, Angular, Bootstrap, jQuery)
-- Database Systems & Data Management (MySQL, MongoDB, SQLite, Oracle, PostgreSQL, Supabase)
-- Machine Learning & AI Implementation
-- WebSocket & Real-time Communication
-- DevOps & Cloud Infrastructure (Docker, GCP)
+- **Backend & Frontend Development** (PHP, Node.js, C#, Python, Java, JavaScript, TypeScript, HTML, CSS, SCSS, React, Angular, Bootstrap, jQuery)
+- **Database Systems & Data Management** (MySQL, MongoDB, SQLite, Oracle, PostgreSQL, Supabase)
+- **Machine Learning & AI Implementation**
+- **WebSocket & Real-time Communication**
+- **DevOps & Cloud Infrastructure** (Docker, GCP)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lluprisingll) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@llupRisingll) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lluprisingll/)
