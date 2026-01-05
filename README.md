@@ -1,8 +1,6 @@
 
 Senior Software Engineer with a language-agnostic approach, adapting across various programming languages and technology stacks based on project requirements. Combines technical expertise with business acumen through MBA studies. Passionate about building solutions that bridge technology and business needs.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=llupRisinglll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🚀 What I'm Up To
 - Working as a senior software engineer at Arch Global Services Philippines, focusing on Thimble (an insurance platform subsidiary of Arch Capital Group). Also pursuing MBA studies and running my own business in Naga City, Camarines Sur, Philippines. For more professional details, check my [LinkedIn](https://www.linkedin.com/in/lluprisingll)
 - Exploring AI technologies and integrating machine learning techniques
