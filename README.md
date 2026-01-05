@@ -27,9 +27,9 @@ As a language-agnostic engineer, I work across various technologies based on pro
 I'm open to collaboration and new opportunities - let's create something amazing together!
 
 
-Digital Footprints:
-https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117 - Answering ReactQuestion in Stackoverflow back in 2019
-https://github.com/remy/nodemon/issues/1501#issuecomment-453950275 - Contributing to nodemon issues back in 2019
-https://www.facebook.com/share/p/14RgyhXkzR1/ - Me askig on facebook for help back on 2014
-https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access - asked a question in stackoverflow that gained 3 ups
-https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess - Ask a question back on 2014 that gained 1 up
+### Digital Footprints:
+- https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117 - Answering ReactQuestion in Stackoverflow back in 2019
+- https://github.com/remy/nodemon/issues/1501#issuecomment-453950275 - Contributing to nodemon issues back in 2019
+- https://www.facebook.com/share/p/14RgyhXkzR1/ - Me askig on facebook for help back on 2014
+- https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access - asked a question in stackoverflow that gained 3 ups
+- https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess - Ask a question back on 2014 that gained 1 up
