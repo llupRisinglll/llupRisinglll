@@ -19,8 +19,8 @@ As a language-agnostic engineer, I work across various technologies based on pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lluprisingll) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@llupRisingll) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lluprisingll/)
 
 **Additional GitHub Profiles:** 
-- [LuisPogi](https://github.com/LuisPogi) - Used during employment with FastJobs
-- [arch-luismiranda](https://github.com/arch-luismiranda) - Used during employment with Arch
+- [LuisPogi](https://github.com/LuisPogi) - Used during employment with [FastJobs](https://www.fastco.asia) (2019 - 2023)
+- [arch-luismiranda](https://github.com/arch-luismiranda) - Used during employment with [Arch Group](https://www.archgroup.com) (2025-2026)
 
 I'm open to collaboration and new opportunities - let's create something amazing together!
 
