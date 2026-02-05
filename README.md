@@ -1,4 +1,3 @@
-
 Senior Software Engineer with a language-agnostic approach, adapting across various programming languages and technology stacks based on project requirements. Combines technical expertise with business acumen through MBA studies. Passionate about building solutions that bridge technology and business needs.
 
 ## 🚀 What I'm Up To
@@ -26,8 +25,12 @@ I'm open to collaboration and new opportunities - let's create something amazing
 
 
 ### Digital Footprints:
-- https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117 - Answering ReactQuestion in Stackoverflow back in 2019
-- https://github.com/remy/nodemon/issues/1501#issuecomment-453950275 - Contributing to nodemon issues back in 2019
-- https://www.facebook.com/share/p/14RgyhXkzR1/ - Me askig on facebook for help back on 2014
-- https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access - asked a question in stackoverflow that gained 3 ups
-- https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess - Ask a question back on 2014 that gained 1 up
+
+| Year | Name / Description | Link |
+|------|--------------------|------|
+| 2014 | Facebook post asking for help | [Facebook post](https://www.facebook.com/share/p/14RgyhXkzR1/) |
+| 2014 | Asked "How to hide file extension using .htaccess / restricting access" — (gained 3 ups) | [Stack Overflow question](https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access) |
+| 2014 | Asked "How to rightly redirect file using .htaccess" — (gained 1 upvote) | [Stack Overflow question](https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess) |
+| 2019 | Answering "How to pass data between functional components in React" (Stack Overflow answer) | [Stack Overflow answer](https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117) |
+| 2019 | Contributing to a nodemon issue (issue comment) | [GitHub issue comment](https://github.com/remy/nodemon/issues/1501#issuecomment-453950275) |
+| 2026 | Comment on OpenCode issue #7843 — helping investigate CLI hang / deadlock on Linux ARM64 (Proot/container) | [GitHub issue comment](https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910) |
