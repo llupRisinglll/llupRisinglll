@@ -35,5 +35,5 @@ I'm open to collaboration and new opportunities - let's create something amazing
 | 2019 | Answering "How to pass data between functional components in React" (Stack Overflow answer) | https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117 |
 | 2019 | Contributing to a nodemon issue (issue comment) | https://github.com/remy/nodemon/issues/1501#issuecomment-453950275 |
 | 2026 | Comment on OpenCode issue #7843 -- helping investigate CLI hang / deadlock on Linux ARM64 (Proot/container) | https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910 |
-| 2026 | [bug]: mimo stats includes imported Claude Code sessions in all metrics (MiMo-Code issue) | https://github.com/XiaomiMiMo/MiMo-Code/issues/494 |
-| 2026 | fix(cli): exclude imported sessions from stats by default (MiMo-Code PR) | https://github.com/XiaomiMiMo/MiMo-Code/pull/492 |
+| 2026 | Reported a bug where MiMo-Code's stats command inflates metrics by counting imported Claude Code sessions | https://github.com/XiaomiMiMo/MiMo-Code/issues/494 |
+| 2026 | Fixed the stats command to exclude imported sessions by default, with an `--all` flag to include them | https://github.com/XiaomiMiMo/MiMo-Code/pull/492 |
