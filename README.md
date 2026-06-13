@@ -34,4 +34,6 @@ I'm open to collaboration and new opportunities - let's create something amazing
 | 2014 | Asked "How to rightly redirect file using .htaccess" — (gained 1 upvote) | https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess |
 | 2019 | Answering "How to pass data between functional components in React" (Stack Overflow answer) | https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117 |
 | 2019 | Contributing to a nodemon issue (issue comment) | https://github.com/remy/nodemon/issues/1501#issuecomment-453950275 |
-| 2026 | Comment on OpenCode issue #7843 — helping investigate CLI hang / deadlock on Linux ARM64 (Proot/container) | https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910 |
+| 2026 | Comment on OpenCode issue #7843 -- helping investigate CLI hang / deadlock on Linux ARM64 (Proot/container) | https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910 |
+| 2026 | [bug]: mimo stats includes imported Claude Code sessions in all metrics (MiMo-Code issue) | https://github.com/XiaomiMiMo/MiMo-Code/issues/494 |
+| 2026 | fix(cli): exclude imported sessions from stats by default (MiMo-Code PR) | https://github.com/XiaomiMiMo/MiMo-Code/pull/492 |
