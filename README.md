@@ -41,7 +41,12 @@ Luis is a language-agnostic engineer who picks the right tool for the job. He ha
 
 | Year | Activity |
 |------|----------|
-| 2026 | [nanocoder #657](https://github.com/Nano-Collective/nanocoder/pull/657) — Created PR: multiline cursor navigation and word-jump |
+| 2026 | [nanocoder #687](https://github.com/Nano-Collective/nanocoder/pull/687) — Created PR: feat: tabbed settings dialog with searchable categories *(open)* |
+| 2026 | [nanocoder #682](https://github.com/Nano-Collective/nanocoder/pull/682) — Created PR: feat: add --resume/--continue CLI session flags *(merged)* |
+| 2026 | [nanocoder #680](https://github.com/Nano-Collective/nanocoder/pull/680) — Created PR: fix: provider wizard data loss and startup provider fallback *(open)* |
+| 2026 | [nanocoder #669](https://github.com/Nano-Collective/nanocoder/pull/669) — Created PR: feat: dual TUI screen modes, reliable /clear, and graceful exit *(merged)* |
+| 2026 | [organisation #77](https://github.com/Nano-Collective/organisation/pull/77) — Created PR: Add Luis Edward Miranda to contributors *(merged)* |
+| 2026 | [nanocoder #657](https://github.com/Nano-Collective/nanocoder/pull/657) — Created PR: multiline cursor navigation and word-jump *(merged)* |
 | 2026 | [MiMo-Code #492](https://github.com/XiaomiMiMo/MiMo-Code/pull/492) — Created PR: fixed stats command excluding imported sessions |
 | 2026 | [MiMo-Code #494](https://github.com/XiaomiMiMo/MiMo-Code/issues/494) — Reported bug: stats command metrics inflation |
 | 2026 | [OpenCode #7843](https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910) — Helped investigate CLI hang on Linux ARM64 |
