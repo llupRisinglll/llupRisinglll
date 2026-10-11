@@ -41,19 +41,14 @@ Luis is a language-agnostic engineer who picks the right tool for the job. He ha
 
 | Year | Activity |
 |------|----------|
-| 2026 | [nanocoder #687](https://github.com/Nano-Collective/nanocoder/pull/687) — Created PR: feat: tabbed settings dialog with searchable categories *(open)* |
-| 2026 | [nanocoder #682](https://github.com/Nano-Collective/nanocoder/pull/682) — Created PR: feat: add --resume/--continue CLI session flags *(merged)* |
-| 2026 | [nanocoder #680](https://github.com/Nano-Collective/nanocoder/pull/680) — Created PR: fix: provider wizard data loss and startup provider fallback *(open)* |
-| 2026 | [nanocoder #669](https://github.com/Nano-Collective/nanocoder/pull/669) — Created PR: feat: dual TUI screen modes, reliable /clear, and graceful exit *(merged)* |
-| 2026 | [organisation #77](https://github.com/Nano-Collective/organisation/pull/77) — Created PR: Add Luis Edward Miranda to contributors *(merged)* |
-| 2026 | [nanocoder #657](https://github.com/Nano-Collective/nanocoder/pull/657) — Created PR: multiline cursor navigation and word-jump *(merged)* |
-| 2026 | [MiMo-Code #492](https://github.com/XiaomiMiMo/MiMo-Code/pull/492) — Created PR: fixed stats command excluding imported sessions |
+| 2026 | Contributed to NanoCoder: [#711](https://github.com/Nano-Collective/nanocoder/pull/711), [#705](https://github.com/Nano-Collective/nanocoder/pull/705), [#703](https://github.com/Nano-Collective/nanocoder/pull/703), [#701](https://github.com/Nano-Collective/nanocoder/pull/701), [#687](https://github.com/Nano-Collective/nanocoder/pull/687), [#682](https://github.com/Nano-Collective/nanocoder/pull/682), [#680](https://github.com/Nano-Collective/nanocoder/pull/680), [#669](https://github.com/Nano-Collective/nanocoder/pull/669), [#657](https://github.com/Nano-Collective/nanocoder/pull/657) |
+| 2026 | Contributed to organisation: [#77](https://github.com/Nano-Collective/organisation/pull/77) — Add Luis Edward Miranda to contributors |
+| 2026 | Contributed to MiMo-Code: [#492](https://github.com/XiaomiMiMo/MiMo-Code/pull/492) — Fixed stats command excluding imported sessions |
 | 2026 | [MiMo-Code #494](https://github.com/XiaomiMiMo/MiMo-Code/issues/494) — Reported bug: stats command metrics inflation |
 | 2026 | [OpenCode #7843](https://github.com/anomalyco/opencode/issues/7843#issuecomment-3737398910) — Helped investigate CLI hang on Linux ARM64 |
 | 2019 | [nodemon #1501](https://github.com/remy/nodemon/issues/1501#issuecomment-453950275) — Helped debug nodemon not restarting on Windows |
 | 2019 | [Stack Overflow](https://stackoverflow.com/questions/58201897/how-to-pass-data-between-functional-components-in-react/58202117#58202117) — Answered how to pass data between React functional components |
-| 2014 | [Stack Overflow](https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access) — Asked about hiding file extensions with .htaccess |
-| 2014 | [Stack Overflow](https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess) — Asked about redirecting files with .htaccess |
+| 2014 | Stack Overflow: [hiding file extensions with .htaccess](https://stackoverflow.com/questions/27674688/how-to-hide-file-extension-using-htaccess-restricting-access), [redirecting files with .htaccess](https://stackoverflow.com/questions/27675414/how-to-rightly-redirect-file-using-htaccess) |
 | 2014 | [Facebook](https://www.facebook.com/share/p/14RgyhXkzR1/) — Asked for help with PHP as a newbie developer |
 
 ## Connect
